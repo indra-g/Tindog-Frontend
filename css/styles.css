@@ -136,3 +136,30 @@ body{
     width: 60%;
   }
 }
+
+/* Call to Action */
+
+#cta{
+  background-color: #ff4c68;
+  padding: 5% 15%;
+  text-align: center;
+}
+
+.only{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 900;
+  font-size:3.5rem;
+  color: white;
+}
+
+/* Footer */
+
+#footer{
+  background-color: white;
+  padding: 5% 15% 1%;
+  text-align: center;
+}
+
+.links{
+  padding: 5px;
+}
